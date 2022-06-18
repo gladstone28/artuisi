@@ -1,3 +1,6 @@
 I created this file called brushes.txt using nano and I am typing information into it. This nano is a very pwerful tool.
 I am now entering a second line.
 I am now entering a third line
+on 18 June 2022 which is months later I am now modifying the text in nano.
+This is showing that I previouly made the last commitment months ago
+Now I am udatong the brushes.txt file

@@ -1,2 +1,5 @@
 This was empty until I am now using nano to put this line into the file
 now I am using echo to place test into vine.txt
+And now months later in June 2022 I am modifying this file using nano
+I will also be committing to ny github repository
+The learning continues
