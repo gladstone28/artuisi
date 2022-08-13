@@ -2,4 +2,7 @@ This was empty until I am now using nano to put this line into the file
 now I am using echo to place test into vine.txt
 And now months later in June 2022 I am modifying this file using nano
 I will also be committing to ny github repository
-The learning continues
+The Learning continues
+....yes it continues because I am now using vi to modify this vine.txt file.
+Vi is just as good as nano. I will be updating my repository on Github for second time today after this exercise using vi/
+Yes, practice what you learn or lose it.
