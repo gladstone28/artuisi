@@ -4,3 +4,4 @@ I am now entering a third line
 on 18 June 2022 which is months later I am now modifying the text in nano.
 This is showing that I previouly made the last commitment months ago
 Now I am udatong the brushes.txt file
+Now using Github to make mdification to this file brushes.txt
