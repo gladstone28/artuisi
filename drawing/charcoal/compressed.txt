@@ -1,1 +1,2 @@
 I just found out that this file is empty. I must have messed it up. However I am now using nano to enter information into the file.
+Todays date is 13 August 2022. Gladstone is making this entry in order to revise his git/Github knowledge. I am therefore modyfying this compressed.txt fille
