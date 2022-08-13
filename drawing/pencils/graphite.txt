@@ -1,1 +1,2 @@
 Graphite pencils are used for both writing and drawing and result in durable markings: though writing is easily removable with an eraser, it is otherwise resistant to moisture, most chemicals, ultraviolet radiation, and natural aging.
+I am now using Github to make changes to this file graphite.txt. I will be trying to practice using git to pull down this commit
