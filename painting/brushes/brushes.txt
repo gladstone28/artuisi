@@ -1,3 +1,5 @@
 I created this file called brushes.txt using nano and I am typing information into it. This nano is a very pwerful tool.
 I am now entering a second line.
 I am now entering a third line
+
+I did a reset of my commits in the terminal then update this file today 13 April 2023
