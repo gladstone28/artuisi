@@ -1,3 +1,5 @@
 I created this file called brushes2.txt using nano and I am typing information into it. This nano is a very pwerful tool.
 I am now entering a second line.
 Now this is the third line that makes this file different from brushes.txt
+Today is 09 October 2022. Making adjsuments to brushes2.txt
+
