@@ -1,2 +1,4 @@
 This was empty until I am now using nano to put this line into the file
 now I am using echo to place test into vine.txt
+
+today is 03 November 2023 and I am using vs code as the editor

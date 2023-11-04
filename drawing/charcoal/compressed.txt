@@ -1,1 +1,2 @@
 I just found out that this file is empty. I must have messed it up. However I am now using nano to enter information into the file.
+Today is 03 November 2023. I am now using visual studio code (vs code) as the text editor
